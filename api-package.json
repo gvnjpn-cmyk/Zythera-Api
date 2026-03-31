@@ -1,0 +1,13 @@
+{
+  "name": "zythera-api",
+  "version": "1.0.0",
+  "description": "Zythera API - powered by Vercel",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
+}
